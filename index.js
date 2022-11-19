@@ -14,3 +14,4 @@ function sum(a,b) {
 //1
 alert('hi')
 //fetch
+//2
