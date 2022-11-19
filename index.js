@@ -12,3 +12,4 @@ function sum(a,b) {
 //second conflict
 //fetch
 //1
+//fetch conf
