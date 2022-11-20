@@ -15,3 +15,4 @@ function sum(a,b) {
 alert('hi')
 //fetch
 //2
+//3
