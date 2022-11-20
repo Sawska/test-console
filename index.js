@@ -17,3 +17,4 @@ alert('hi')
 //2
 //3
 let num = 123
+let string = 'str'
