@@ -16,3 +16,4 @@ alert('hi')
 //fetch
 //2
 //3
+let num = 123
