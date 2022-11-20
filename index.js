@@ -17,8 +17,5 @@ alert('hi')
 //2
 //3
 let num = 123
-<<<<<<< HEAD
 let str = 'string'
-=======
 let string = 'str'
->>>>>>> refs/remotes/origin/main
